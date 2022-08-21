@@ -54,3 +54,4 @@ footer {
     flex-shrink: 0;
 }
 
+.carousel-inner > .carousel-item > img{ margin:auto; }
