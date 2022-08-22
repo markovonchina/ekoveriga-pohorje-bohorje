@@ -48,10 +48,10 @@ footer {
     text-align: center;
     background-color: #c0c8d0;
     color: #343a40;
-    heigh: 70px;
     margin-top: auto;
     flex-grow: 0;
     flex-shrink: 0;
+
 }
 
 .carousel-inner > .carousel-item > img{ margin:auto; }
